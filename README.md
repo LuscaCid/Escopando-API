@@ -1,4 +1,4 @@
-Exercício/Aula ministrada pela Cubos Academy ensinando como escopar uma API
+Exercício/Aula ministrada pela Cubos Academy ensinando como escopar uma mini API de rede social
 
 ## Endpoints
 
