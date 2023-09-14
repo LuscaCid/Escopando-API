@@ -1,3 +1,5 @@
+Exercício/Aula ministrada pela Cubos Academy ensinando como escopar uma API
+
 ## Endpoints
 
 - Login - POST (Sempre que enviar dados para API que sejam informações sigilosas devera ser utilizado o POST)
